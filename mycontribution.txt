@@ -1,0 +1,13 @@
+My associate id:844588
+Other team members:
+844514,844535,844536,844539.
+Team Lead:844588
+My Role in Team:
+1.Creating a  form for appointment
+2.form validation
+3.External CSS.
+------------------------------------------
+My Development files:
+1.Appointment.html
+2.Mystyle.css
+3.Radio.js
